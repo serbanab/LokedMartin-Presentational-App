@@ -1,0 +1,45 @@
+body{
+	min-height: 100vh;
+	background-color: #333;
+}
+
+.fullScreen{
+	min-height: 100vh;
+}
+
+footer{
+	width: 100%;
+	height: 65px;
+	margin-top: 25px;
+}
+
+.sky{
+
+	background-color: skyblue;
+
+}
+
+.skyColor{
+
+	color: skyblue;
+
+}
+
+.width{
+
+	width: 400px;
+	height: 258.27px;
+
+}
+
+i{
+	font-size: 22px;
+}
+
+.W{
+	width: 40%;
+}
+
+.W2{
+	width: 20%;
+}
